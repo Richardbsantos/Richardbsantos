@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+-    Formado em Ciencia da computação
 - 🔭 Eu trabalho com Front-end e back-end 
 - 🌱 Estou estudando Typescript
 
